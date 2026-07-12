@@ -25,8 +25,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ximimoryan&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="Ximi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximimoryan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true" alt="Ximi's most used languages" />
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" alt="Ximi's GitHub profile details" />
+
+<img width="49%" src="profile-summary-card-output/github/3-stats.svg" alt="Ximi's GitHub stats" />
+<img width="49%" src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Ximi's most used languages" />
 
 </div>
 
